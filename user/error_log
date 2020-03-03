@@ -1,0 +1,39 @@
+[11-Jun-2018 18:57:34 Australia/Perth] PHP Parse error:  syntax error, unexpected '?>' in /home/balratin/jobcomplete.com.au/admin/application/views/header.php on line 259
+[11-Jun-2018 18:57:40 Australia/Perth] PHP Parse error:  syntax error, unexpected '?>' in /home/balratin/jobcomplete.com.au/admin/application/views/header.php on line 259
+[11-Jun-2018 18:57:45 Australia/Perth] PHP Parse error:  syntax error, unexpected '?>' in /home/balratin/jobcomplete.com.au/admin/application/views/header.php on line 259
+[12-Jun-2018 14:04:13 Australia/Perth] PHP Fatal error:  Call to a member function posttable() on a non-object in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 14:04:33 Australia/Perth] PHP Fatal error:  Call to a member function posttable() on a non-object in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:22:01 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::user_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:23:33 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::User_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:23:36 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::User_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:24:11 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::User_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:24:13 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::User_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:26:17 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::User_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:26:41 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::user_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:26:42 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::user_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:26:44 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::user_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:26:46 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::user_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:26:47 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::user_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:27:22 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::user_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:28:06 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::user_model() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:28:38 Australia/Perth] PHP Fatal error:  Call to undefined method CI_Loader::posttable() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 207
+[12-Jun-2018 15:46:07 Australia/Perth] PHP Fatal error:  Call to a member function posttable() on a non-object in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 209
+[12-Jun-2018 15:52:57 Australia/Perth] PHP Fatal error:  Call to undefined method user_model::posttable() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 208
+[12-Jun-2018 17:11:40 Australia/Perth] PHP Fatal error:  Call to a member function post_data() on a non-object in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 208
+[12-Jun-2018 17:44:12 Australia/Perth] PHP Fatal error:  Cannot redeclare User::tableview() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 214
+[12-Jun-2018 18:52:33 Australia/Perth] PHP Fatal error:  Call to a member function table_post() on a non-object in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 209
+[13-Jun-2018 19:28:27 Australia/Perth] PHP Fatal error:  Cannot redeclare User::sendMail() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 104
+[13-Jun-2018 19:28:42 Australia/Perth] PHP Fatal error:  Cannot redeclare User::sendMail() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 104
+[13-Jun-2018 20:06:05 Australia/Perth] PHP Fatal error:  Call to a member function set_newline() on a non-object in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 95
+[13-Jun-2018 20:06:45 Australia/Perth] PHP Fatal error:  Call to a member function set_newline() on a non-object in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 95
+[13-Jun-2018 20:07:41 Australia/Perth] PHP Fatal error:  Call to a member function set_newline() on a non-object in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 95
+[13-Jun-2018 20:07:54 Australia/Perth] PHP Fatal error:  Call to a member function set_newline() on a non-object in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 95
+[13-Jun-2018 20:18:54 Australia/Perth] PHP Fatal error:  Call to a member function set_newline() on a non-object in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 95
+[14-Jun-2018 15:59:00 Australia/Perth] PHP Fatal error:  Cannot redeclare User::register() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 254
+[14-Jun-2018 17:41:01 Australia/Perth] PHP Parse error:  syntax error, unexpected end of file in /home/balratin/jobcomplete.com.au/admin/application/models/User_model.php on line 115
+[14-Jun-2018 17:41:06 Australia/Perth] PHP Parse error:  syntax error, unexpected end of file in /home/balratin/jobcomplete.com.au/admin/application/models/User_model.php on line 115
+[14-Jun-2018 17:41:08 Australia/Perth] PHP Parse error:  syntax error, unexpected end of file in /home/balratin/jobcomplete.com.au/admin/application/models/User_model.php on line 115
+[14-Jun-2018 17:41:10 Australia/Perth] PHP Parse error:  syntax error, unexpected end of file in /home/balratin/jobcomplete.com.au/admin/application/models/User_model.php on line 115
+[14-Jun-2018 17:41:44 Australia/Perth] PHP Fatal error:  Call to undefined method user_model::getJobs() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 294
+[14-Jun-2018 17:41:46 Australia/Perth] PHP Fatal error:  Call to undefined method user_model::getJobs() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 39
+[14-Jun-2018 17:41:53 Australia/Perth] PHP Fatal error:  Call to undefined method user_model::getJobs() in /home/balratin/jobcomplete.com.au/admin/application/controllers/User.php on line 294
